@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/reiterer/Library/CloudStorage/OneDrive-Persönlich/TU Wien/Computational Science & Engineering/WS24/Scientific Computing in Python/general_project/venv"
+VIRTUAL_ENV="/Users/reiterer/Library/CloudStorage/OneDrive-Persönlich/TU Wien/Computational Science & Engineering/WS24/Scientific Computing in Python/general_project/First-Repository"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
